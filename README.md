@@ -14,6 +14,8 @@ In this lesson you will practice:
 * Invoke scikit-learn methods
 * Access scikit-learn attributes
 
+# Check index.ipynb file for my workings
+
 ## Mutable and Immutable Types
 
 For each example below, think to yourself whether it is a mutable or immutable type. Then expand the details tag to reveal the answer.
